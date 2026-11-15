@@ -1,6 +1,6 @@
 # CineScope — Movies & TV Series Guide
 
-> CineScope is a free, legal movie and TV series discovery guide for the US and Europe.
+> CineScope is a legal movie and TV series discovery guide for the US and Europe.
 > 334 real titles (60 curated + 274 from the TVMaze API catalog — one duplicate "Utopia" title is dropped by the catalog merge). It publishes a
 > Netflix Top 10 popularity snapshot, the official US and UK Apple TV movie charts,
 > best-of-2026 and best-by-genre lists, and where-to-watch-legally guidance.
