@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cinescope-5g7u.onrender.com/sitemap.xml
