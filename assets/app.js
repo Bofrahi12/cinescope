@@ -27,7 +27,7 @@ const SMARTLINK_URL = "";
 const BASE_CANONICAL = "https://cinescope-5g7u.onrender.com";
 /* ANALYTICS (next step — see Guides): paste a GA4 measurement ID or a Plausible
    domain to connect real analytics. Both empty by default: nothing is sent anywhere. */
-const GA_MEASUREMENT_ID = "";
+const GA_MEASUREMENT_ID = "G-3Z3M7XBG3W";
 const PLAUSIBLE_DOMAIN = "";
 /* Ad slots: search this file for "AD SLOT" comments and paste your ad
    network code (AdSense / Adsterra / etc.) inside those .adslot blocks.
