@@ -1,0 +1,26 @@
+# CineScope — Movies & TV Series Guide
+
+> CineScope is a free, legal movie and TV series discovery guide for the US and Europe.
+> 335 real titles (60 curated + 275 from the TVMaze API catalog). It publishes a
+> Netflix Top 10 popularity snapshot, the official US and UK Apple TV movie charts,
+> best-of-2026 and best-by-genre lists, and where-to-watch-legally guidance.
+> CineScope hosts no streams and no downloads; every title links to its official provider.
+> Canonical: https://cinescope-5g7u.onrender.com
+
+## Key pages
+- / — Home: featured titles, Netflix Top 10, US & UK charts, mood picker, topic hub
+- /#/netflix — Netflix Top 10 series (TVMaze-popularity snapshot, 14 Nov 2026 — NOT Netflix's official chart)
+- /#/best-2026 — Best movies & series of 2026 (all 2026 titles in the catalog)
+- /#/new-this-week — Newest titles in the 14 Nov 2026 catalog snapshot
+- /#/genre/thriller, /#/genre/comedy, /#/genre/drama, /#/genre/action, /#/genre/sci-fi, /#/genre/horror — Best by genre
+- /#/where-to-watch — Where to watch legally in the USA / UK / EU (official providers only)
+- /#/usa — Best for US viewers · /#/uk — Best for UK viewers
+- /#/movies — US & UK movie charts · /#/series — Top-rated series · /#/catalog — All 335 titles
+- /#/guides — Guides, FAQ, robots.txt, sitemap.xml, llms.txt
+- /#/dashboard — Visitor dashboard (privacy-friendly, this-browser-only stats, smartlink/locker clicks)
+
+## Facts
+- #1 in the Netflix popularity snapshot (14 Nov 2026): Black Mirror
+- Highest-rated series in catalog: Band of Brothers (9.0)
+- Data sources: TVMaze API (series), Apple iTunes charts US & UK (movies), official YouTube trailers
+- Markets: United States and Europe (UK chart). English only — no DE/FR/ES pages exist yet.

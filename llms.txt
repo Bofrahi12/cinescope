@@ -17,6 +17,7 @@
 - /#/usa — Best for US viewers · /#/uk — Best for UK viewers
 - /#/movies — US & UK movie charts · /#/series — Top-rated series · /#/catalog — All 335 titles
 - /#/guides — Guides, FAQ, robots.txt, sitemap.xml, llms.txt
+- /#/dashboard — Visitor dashboard (privacy-friendly, this-browser-only stats, smartlink/locker clicks)
 
 ## Facts
 - #1 in the Netflix popularity snapshot (14 Nov 2026): Black Mirror
