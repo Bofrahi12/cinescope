@@ -287,7 +287,7 @@
     <div class="adslot" role="complementary" aria-label="Advertisement">
       <span class="tag">ADVERTISEMENT</span>
       <div><h3>Save this Top 10 to your watchlist</h3>
-      <p>Add titles in one tap and export the whole list — unlock the export in seconds.</p></div>
+      <p>Add titles in one tap and export the whole list as a file.</p></div>
       <a class="btn red" href="/watchlist/">Open watchlist</a>
     </div>
     <section class="prose">
@@ -451,7 +451,7 @@
       <div style="display:grid;gap:9px;margin-top:14px">
         <a class="btn red" id="dWatch" href="https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2" target="_blank" rel="noopener">▶ Watch on Apple TV (official)</a>
         <button class="btn" id="dTrailer" hidden>🎬 Watch trailer</button>
-        <button class="btn gold" id="dUnlock">🔓 Unlock full details &amp; HD pack</button>
+        <button class="btn gold" id="dUnlock">📋 Full details &amp; HD pack</button>
         <button class="btn smart" data-smartlink="detail-button">⚡ Sponsored pick — today's top offer</button>
         <button class="btn ghost" id="dWl">＋ Add to watchlist</button>
       </div></div>
@@ -463,14 +463,8 @@
         <div class="watch-hint" id="dWatchHint"><b>Where to watch Forgotten Island legally in the USA:</b> via its official Apple TV US store page (red button) — listed at $29.99 in the 14 Nov 2026 chart snapshot. Availability can differ in other countries; the store page shows your region's options. <a href="/where-to-watch/">How to check your country →</a></div>
         <div id="dCastWrap" style="display:none"><h3 style="margin:18px 0 4px">Top cast</h3><div class="cast" id="dCast"></div></div>
         <div class="lockbox" id="lockBox">
-          <h3>🔒 Full breakdown &amp; HD pack</h3>
-          <div class="blurred" id="lockContent"></div>
-          <div class="lock-overlay">
-            <span class="lk">🔒</span>
-            <strong>Episode guide, full facts &amp; HD poster pack are locked</strong>
-            <span style="color:var(--muted);font-size:14px">Complete one quick verification to unlock — takes under a minute.</span>
-            <button class="btn gold" id="lockBtn">Unlock now</button>
-          </div>
+          <h3>📋 Full breakdown &amp; HD pack</h3>
+          <div id="lockContent"></div>
         </div>
         <!-- SMARTLINK: detail in-feed -->
         <div class="smart-banner" role="complementary" aria-label="Sponsored smartlink">
@@ -648,7 +642,7 @@
       <button class="btn smart" data-smartlink="watchlist-banner">Open Smart Pick →</button>
     </div>
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin:14px 0 4px">
-      <button class="btn gold" id="exportBtn">⬇ Export watchlist (locked)</button>
+      <button class="btn gold" id="exportBtn">⬇ Export watchlist</button>
       <button class="btn ghost" id="clearWl">Clear list</button>
     </div>
     <div class="grid" id="wlGrid"></div>
@@ -661,7 +655,7 @@
   <main class="wrap">
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › Dashboard</nav>
     <h2 class="page-t">Visitor Dashboard</h2>
-    <p class="page-sub">Your daily visitor numbers for CineScope — page views, unique visitors per day, top titles, top pages, where visits came from, and smartlink &amp; locker clicks.</p>
+    <p class="page-sub">Your daily visitor numbers for CineScope — page views, unique visitors per day, top titles, top pages, where visits came from, and smartlink clicks.</p>
     <div class="answer-first"><p><strong>Privacy-friendly — no cookies:</strong> this dashboard needs <strong>no cookie banner</strong>, because it sets no cookies and sends nothing anywhere. It only reads what CineScope's own analytics hook (<strong>window.CineScopeAnalytics</strong>) has recorded in <strong>this browser's localStorage</strong>, on this device. Every number below is therefore <strong>this browser only — a per-device estimate, not site-wide traffic</strong>. Real site-wide traffic (all visitors, not just this browser) only appears once GA4 or Plausible is connected — see the status panel below and the setup steps in <a href="/guides/">Guides &amp; FAQ</a>.</p></div>
     <div class="empty" id="dashEmpty" hidden>No visits recorded yet on this browser.</div>
     <h3 style="margin:24px 0 2px">Daily summary — <span id="dashDate">today</span></h3>
@@ -704,7 +698,7 @@
       <p><strong>Canonical address:</strong> https://cinescope-5g7u.onrender.com — this Render URL is the site's canonical address until it moves to its own custom domain, when the canonical, robots.txt, sitemap.xml and llms.txt must all be re-pointed to that domain.</p></div>
     <div class="guide-card"><h3>Smartlink — setup &amp; live status</h3>
       <p style="display:flex;gap:10px;align-items:center;flex-wrap:wrap"><span class="smart-status demo" data-smart-status><i></i><span>Checking…</span></span><span style="color:var(--muted)">Clicks this session: <strong id="smartClicks" style="color:#fff">0</strong></span></p>
-      <p>The site-wide smartlink is controlled from <strong>one place</strong>: open the site code, find <strong>SMARTLINK_URL</strong> at the top of the script (next to OGADS_LOCKER_URL) and paste your smartlink between the quotes — for example the Direct Link / Smartlink URL from Adsterra, Monetag, OGAds or your network. Save, and every smartlink placement goes live at once. Leave it empty and the buttons run in demo mode, so you can test the flow first.</p>
+      <p>The site-wide smartlink is controlled from <strong>one place</strong>: open the site code, find <strong>SMARTLINK_URL</strong> at the top of the script and paste your smartlink between the quotes — for example the Direct Link / Smartlink URL from Adsterra, Monetag, OGAds or your network. Save, and every smartlink placement goes live at once. Leave it empty and the buttons run in demo mode, so you can test the flow first.</p>
       <p><strong>Placements wired to SMARTLINK_URL:</strong> the sponsored bar under the header (every page), the home banner, the hero “Sponsored pick” button, in-feed banners on Movies, Series, Netflix Top 10, All 300+ and Watchlist, the title-page button + banner, and the footer “Today's Smart Pick” link. Every click opens the smartlink in a new tab; the official provider buttons are never replaced.</p>
       <button class="btn smart sm" data-smartlink="guides-test">Test the smartlink</button></div>
 
@@ -720,9 +714,8 @@
       <details><summary>What changed in the Netflix Top 10 this week?</summary><p>House of Cards (8.2) enters at #4 and Orange Is the New Black (7.9) at #8; Marvel's Daredevil rises to #2. Bloodline and Marco Polo leave the Top 10. The ranking is a frozen snapshot, rebuilt with each catalog update — snapshot: 15 Nov 2026. It is CineScope's ranking, not Netflix's official daily chart.</p></details>
       <details><summary>Does CineScope host movies or episodes?</summary><p>No. CineScope is a discovery guide. It publishes legal metadata, ratings, cast and trailers, and every title links out to its official provider page, where you can watch it legally.</p></details>
       <details><summary>Where does the data come from?</summary><p>Series data, posters, cast and episode counts come from the TVMaze API. Movie charts and artwork come from Apple's official iTunes charts for the US and UK stores. Series snapshot: November 15, 2026; movie charts: November 14, 2026.</p></details>
-      <details><summary>Do I need an account to use CineScope?</summary><p>No. Browsing, search, filters and the watchlist need no account. A few bonus extras — the full episode breakdown, the HD poster pack and the watchlist export — ask you to complete a quick unlock step first.</p></details>
+      <details><summary>Do I need an account to use CineScope?</summary><p>No. Browsing, search, filters, the watchlist, the full episode breakdown, the HD poster pack and the watchlist export need no account — everything is open.</p></details>
       <details><summary>Can I use CineScope in Europe?</summary><p>Yes. CineScope tracks both the US and UK/European movie charts and marks each title with its region.</p></details>
-      <details><summary>How does the unlock work?</summary><p>Unlocking opens the configured content-locker link (set OGADS_LOCKER_URL in the site code). Complete the step there, return, and the full breakdown, HD poster download and export are enabled on this device.</p></details>
       <details><summary>How do I choose what to watch tonight?</summary><p>Use the mood picker on the home page, or start from the Netflix Top 10 snapshot and the US and UK movie charts. Every title page shows the rating, genres, cast and a link to the official provider, so you can decide in under a minute and watch legally.</p></details>
       <details><summary>Is a title on Netflix USA?</summary><p>Title pages show the network or provider recorded in the catalog data. Netflix catalogues differ by country, so open the title's official provider page and check while signed in to your own region — that page always shows the options for your country. See the Where to Watch guide.</p></details>
       <details><summary>Is CineScope legal?</summary><p>Yes. CineScope is a discovery guide: it publishes metadata, ratings, cast and trailers from legal sources (the TVMaze API and Apple's official iTunes charts) and links out to official provider pages. It hosts no streams, no downloads and no pirated content.</p></details>
@@ -840,7 +833,7 @@ Sitemap: https://cinescope-5g7u.onrender.com/sitemap.xml</div>
 </div>
       <button class="btn sm" data-copy="llmsTxt">Copy llms.txt</button></div>
     <div class="guide-card"><h3>Analytics — visitor dashboard, GA4 &amp; Plausible setup</h3>
-      <p><strong>Your visitor dashboard is live at <a href="/dashboard/">/dashboard/</a></strong> (also linked in the main menu and footer). It works with zero backend: it reads only what <strong>window.CineScopeAnalytics</strong> records in this browser's localStorage — page views (all time + today), a per-day unique-visitor flag, top titles, top pages, referrer type (search / social / direct / other, from document.referrer plus UTM parameters), smartlink clicks and locker clicks. It is privacy-friendly: <strong>no cookies, so no cookie banner is needed</strong>. Until GA4 or Plausible is connected, the dashboard shows <strong>this browser's own visits only — a per-device estimate, not site-wide traffic</strong>.</p>
+      <p><strong>Your visitor dashboard is live at <a href="/dashboard/">/dashboard/</a></strong> (also linked in the main menu and footer). It works with zero backend: it reads only what <strong>window.CineScopeAnalytics</strong> records in this browser's localStorage — page views (all time + today), a per-day unique-visitor flag, top titles, top pages, referrer type (search / social / direct / other, from document.referrer plus UTM parameters), smartlink clicks. It is privacy-friendly: <strong>no cookies, so no cookie banner is needed</strong>. Until GA4 or Plausible is connected, the dashboard shows <strong>this browser's own visits only — a per-device estimate, not site-wide traffic</strong>.</p>
       <p><strong>Connect GA4 (Google Analytics 4) — for real site-wide traffic:</strong></p>
       <ol style="color:#dcdcf0;line-height:1.7;margin:4px 0 10px">
         <li>Go to <strong>analytics.google.com</strong> and sign in with the site's Google account.</li>
@@ -878,30 +871,9 @@ Sitemap: https://cinescope-5g7u.onrender.com/sitemap.xml</div>
         <p>CineScope is a discovery guide for viewers in the United States and Europe. We host no streams and no downloads — every title links to its official provider so you always watch legally.</p></div>
     </div>
     <p class="fine">Site files: robots.txt, sitemap.xml and llms.txt ship at the site root and are served from https://cinescope-5g7u.onrender.com — the canonical until a custom domain is set.</p>
-    <p class="fine">© 2026 CineScope. Series snapshot Nov 15, 2026 (TVMaze) · movie charts Nov 14, 2026 (Apple iTunes). All titles, posters and artwork are trademarks of their respective owners. This site contains advertising and optional content-locker unlocks for bonus extras.</p>
+    <p class="fine">© 2026 CineScope. Series snapshot Nov 15, 2026 (TVMaze) · movie charts Nov 14, 2026 (Apple iTunes). All titles, posters and artwork are trademarks of their respective owners. This site contains advertising (sponsored smartlink placements).</p>
   </div>
 </footer>
-
-<!-- ======================= LOCKER MODAL ======================= -->
-<div class="modal" id="lockerModal" role="dialog" aria-modal="true" aria-labelledby="lockerTitle">
-  <div class="sheet">
-    <button class="x" data-close aria-label="Close">✕</button>
-    <h3 id="lockerTitle">Unlock Full Access</h3>
-    <p id="lockerSub">Complete one quick verification step to unlock this content. It takes under a minute — this is how CineScope pays for its data and hosting.</p>
-    <ul class="perks" id="lockerPerks"></ul>
-    <div class="steps" id="lockerSteps">
-      <div class="step" data-step="1"><span class="dot">1</span> Click “Verify &amp; Unlock” — the locker opens in a new tab</div>
-      <div class="step" data-step="2"><span class="dot">2</span> Complete the short step shown there</div>
-      <div class="step" data-step="3"><span class="dot">3</span> Return here — your content unlocks instantly</div>
-    </div>
-    <div class="progress" id="lockerProg"><i></i></div>
-    <div style="display:grid;gap:9px">
-      <button class="btn gold" id="verifyBtn" style="width:100%">🔓 Verify &amp; Unlock</button>
-      <button class="btn ghost" id="confirmBtn" style="width:100%" hidden>I completed the step — unlock now</button>
-    </div>
-    <p id="lockerNote" style="font-size:12.5px;margin:12px 0 0"></p>
-  </div>
-</div>
 
 <!-- ======================= SMARTLINK MODAL (demo mode / status) ======================= -->
 <div class="modal" id="smartModal" role="dialog" aria-modal="true" aria-labelledby="smartTitle">
