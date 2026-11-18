@@ -1,0 +1,468 @@
+# CineScope — Full Catalog (llms-full.txt)
+> Complete machine-readable summary of CineScope (https://cinescope-5g7u.onrender.com), a legal movie & TV series discovery guide for the US, UK and Europe. 334 real titles. No streams, no downloads — every title links to its official provider. Updated 18 Nov 2026. Series snapshot 17 Nov 2026; movie charts snapshot 14 Nov 2026.
+## Netflix Top 10 series (week of 17–23 Nov 2026, TVMaze-popularity snapshot — NOT Netflix's official chart)
+- #1: Black Mirror (2011) — series — Drama, Science-Fiction, Thriller — rating 8.4 — /titles/black-mirror/
+- #2: Marvel's Daredevil (2015) — series — Drama, Action, Crime — rating 8.4 — /titles/marvel-s-daredevil/
+- #3: House of Cards (2013) — series — Drama, Thriller — rating 8.2 — /titles/api-175-house-of-cards/
+- #4: Marvel's Jessica Jones (2015) — series — Action, Crime, Science-Fiction — rating 7.9 — /titles/marvel-s-jessica-jones/
+- #5: Longmire (2012) — series — Drama, Thriller, Western — rating 8.3 — /titles/longmire/
+- #6: Arrested Development (2003) — series — Comedy, Family — rating 8.2 — /titles/arrested-development/
+- #7: Sense8 (2015) — series — Drama, Science-Fiction, Thriller — rating 8.1 — /titles/sense8/
+- #8: Orange Is the New Black (2013) — series — Drama, Comedy, Crime — rating 7.9 — /titles/api-170-orange-is-the-new-black/
+- #9: Bloodline (2015) — series — Drama, Thriller, Mystery — rating 7.8 — /titles/bloodline/
+- #10: Unbreakable Kimmy Schmidt (2015) — series — Comedy — rating 7.5 — /titles/unbreakable-kimmy-schmidt/
+
+## Best movies of 2026 (US & UK Apple TV charts, 26 titles)
+- Heart of the Beast (2026) — movie — Action & Adventure — /titles/heart-of-the-beast/
+- Resident Evil (2026) (2026) — movie — Horror — /titles/resident-evil-2026/
+- Spider-Man: Brand New Day (2026) — movie — Action & Adventure — /titles/spider-man-brand-new-day/
+- Mutiny (2026) — movie — Action & Adventure — /titles/mutiny/
+- Other Mommy (2026) — movie — Horror — /titles/other-mommy/
+- Primetime (2026) — movie — Thriller — /titles/primetime/
+- Verity (2026) — movie — Thriller — /titles/verity/
+- Coyote vs. Acme (2026) — movie — Comedy — /titles/coyote-vs-acme/
+- Musk (2026) — movie — Documentary — /titles/musk/
+- Sense and Sensibility (2026) (2026) — movie — Drama — /titles/sense-and-sensibility-2026/
+- Practical Magic 2 (2026) — movie — Comedy — /titles/practical-magic-2/
+- By Any Means (2026) — movie — Action & Adventure — /titles/by-any-means/
+- Forgotten Island (2026) — movie — Kids & Family — /titles/forgotten-island/
+- Buddy (2026) — movie — Horror — /titles/buddy/
+- Runner (2026) — movie — Action & Adventure — /titles/runner/
+- The End of Oak Street (2026) — movie — Thriller — /titles/the-end-of-oak-street/
+- Hope (2026) — movie — Action & Adventure — /titles/hope/
+- The History of Concrete (2026) — movie — Documentary — /titles/the-history-of-concrete/
+- Obsession (2026) (2026) — movie — Horror — /titles/obsession-2026/
+- Your Mother Your Mother Your Mother (2026) — movie — Action & Adventure — /titles/your-mother-your-mother-your-mother/
+- Savage House (2026) — movie — Comedy — /titles/savage-house/
+- The Weight (2026) — movie — Thriller — /titles/the-weight/
+- Pressure (2026) — movie — Drama — /titles/pressure/
+- The Invite (2026) — movie — Comedy — /titles/the-invite/
+- Obsession (2026) — movie — Horror — /titles/obsession/
+- Hamnet (2026) — movie — Drama — /titles/hamnet/
+
+## Best by genre (top-rated in catalog)
+### Thriller — /genre/thriller/
+- Breaking Bad (2008) — series — Drama, Crime, Thriller — rating 9.2 — /titles/api-169-breaking-bad/
+- Death Note (2006) — series — Anime, Fantasy, Thriller — rating 8.8 — /titles/api-40-death-note/
+- Line of Duty (2012) — series — Drama, Crime, Thriller — rating 8.6 — /titles/line-of-duty/
+- Orphan Black (2013) — series — Drama, Science-Fiction, Thriller — rating 8.6 — /titles/api-61-orphan-black/
+- Black Mirror (2011) — series — Drama, Science-Fiction, Thriller — rating 8.4 — /titles/black-mirror/
+- Utopia (2013) — series — Drama, Science-Fiction, Thriller — rating 8.4 — /titles/api-64-utopia/
+- Longmire (2012) — series — Drama, Thriller, Western — rating 8.3 — /titles/longmire/
+- Homeland (2011) — series — Drama, Thriller, Espionage — rating 8.2 — /titles/api-7-homeland/
+- Penny Dreadful (2014) — series — Horror, Thriller, Supernatural — rating 8.2 — /titles/api-16-penny-dreadful/
+- The Killing (2011) — series — Drama, Crime, Thriller — rating 8.2 — /titles/api-35-the-killing/
+- 24 (2001) — series — Drama, Action, Thriller — rating 8.2 — /titles/api-167-24/
+- House of Cards (2013) — series — Drama, Thriller — rating 8.2 — /titles/api-175-house-of-cards/
+### Comedy — /genre/comedy/
+- The IT Crowd (2006) — series — Comedy — rating 8.7 — /titles/the-it-crowd/
+- Rick and Morty (2013) — series — Comedy, Adventure, Science-Fiction — rating 8.7 — /titles/api-216-rick-and-morty/
+- Futurama (1999) — series — Comedy, Adventure, Science-Fiction — rating 8.6 — /titles/futurama/
+- Fargo (2014) — series — Drama, Comedy, Crime — rating 8.6 — /titles/api-32-fargo/
+- Friends (1994) — series — Comedy, Romance — rating 8.5 — /titles/friends/
+- Silicon Valley (2014) — series — Comedy — rating 8.4 — /titles/api-143-silicon-valley/
+- Shameless (2011) — series — Drama, Comedy, Family — rating 8.4 — /titles/api-150-shameless/
+- South Park (1997) — series — Comedy — rating 8.3 — /titles/api-112-south-park/
+- Arrested Development (2003) — series — Comedy, Family — rating 8.2 — /titles/arrested-development/
+- Chuck (2007) — series — Drama, Comedy, Action — rating 8.2 — /titles/api-168-chuck/
+- Brooklyn Nine-Nine (2013) — series — Comedy, Action, Crime — rating 8.1 — /titles/api-49-brooklyn-nine-nine/
+- The Middle (2009) — series — Comedy, Family — rating 8.1 — /titles/api-77-the-middle/
+### Drama — /genre/drama/
+- Breaking Bad (2008) — series — Drama, Crime, Thriller — rating 9.2 — /titles/api-169-breaking-bad/
+- Band of Brothers (2001) — series — Drama, Action, War — rating 9.0 — /titles/band-of-brothers/
+- Firefly (2002) — series — Drama, Adventure, Science-Fiction — rating 9.0 — /titles/api-180-firefly/
+- Sherlock (2010) — series — Drama, Crime, Mystery — rating 8.9 — /titles/sherlock/
+- Game of Thrones (2011) — series — Drama, Adventure, Fantasy — rating 8.9 — /titles/api-82-game-of-thrones/
+- The Wire (2002) — series — Drama, Crime — rating 8.9 — /titles/api-179-the-wire/
+- The Sopranos (1999) — series — Drama, Crime — rating 8.8 — /titles/the-sopranos/
+- Downton Abbey (2010) — series — Drama, Family, Romance — rating 8.7 — /titles/downton-abbey/
+- Oz (1997) — series — Drama, Crime — rating 8.7 — /titles/oz/
+- Deadwood (2004) — series — Drama, Crime, Western — rating 8.7 — /titles/deadwood/
+- Justified (2010) — series — Drama, Crime, Western — rating 8.7 — /titles/api-106-justified/
+- House (2004) — series — Drama, Mystery, Medical — rating 8.7 — /titles/api-118-house/
+### Action — /genre/action/
+- Band of Brothers (2001) — series — Drama, Action, War — rating 9.0 — /titles/band-of-brothers/
+- Star Trek: The Next Generation (1987) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/star-trek-the-next-generation/
+- Avatar: The Last Airbender (2005) — series — Action, Adventure, Fantasy — rating 8.8 — /titles/avatar-the-last-airbender/
+- Person of Interest (2011) — series — Action, Crime, Science-Fiction — rating 8.8 — /titles/api-2-person-of-interest/
+- Stargate SG·1 (1997) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-204-stargate-sg-1/
+- Stargate Atlantis (2004) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-206-stargate-atlantis/
+- Farscape (1999) — series — Action, Adventure, Science-Fiction — rating 8.6 — /titles/farscape/
+- Dark Angel (2000) — series — Action, Science-Fiction — rating 8.6 — /titles/dark-angel/
+- Vikings (2013) — series — Drama, Action, History — rating 8.6 — /titles/api-29-vikings/
+- Fringe (2008) — series — Drama, Action, Science-Fiction — rating 8.6 — /titles/api-158-fringe/
+- Banshee (2013) — series — Drama, Action, Crime — rating 8.6 — /titles/api-164-banshee/
+- Buffy the Vampire Slayer (1997) — series — Drama, Action, Supernatural — rating 8.5 — /titles/buffy-the-vampire-slayer/
+### Sci-Fi — /genre/sci-fi/
+- Firefly (2002) — series — Drama, Adventure, Science-Fiction — rating 9.0 — /titles/api-180-firefly/
+- Star Trek: The Next Generation (1987) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/star-trek-the-next-generation/
+- Person of Interest (2011) — series — Action, Crime, Science-Fiction — rating 8.8 — /titles/api-2-person-of-interest/
+- Stargate SG·1 (1997) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-204-stargate-sg-1/
+- Stargate Atlantis (2004) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-206-stargate-atlantis/
+- Battlestar Galactica (2003) — series — Drama, Science-Fiction, War — rating 8.7 — /titles/api-166-battlestar-galactica/
+- Rick and Morty (2013) — series — Comedy, Adventure, Science-Fiction — rating 8.7 — /titles/api-216-rick-and-morty/
+- Farscape (1999) — series — Action, Adventure, Science-Fiction — rating 8.6 — /titles/farscape/
+- Dark Angel (2000) — series — Action, Science-Fiction — rating 8.6 — /titles/dark-angel/
+- Futurama (1999) — series — Comedy, Adventure, Science-Fiction — rating 8.6 — /titles/futurama/
+- The X-Files (1993) — series — Drama, Crime, Science-Fiction — rating 8.6 — /titles/the-x-files/
+- Orphan Black (2013) — series — Drama, Science-Fiction, Thriller — rating 8.6 — /titles/api-61-orphan-black/
+### Horror — /genre/horror/
+- Penny Dreadful (2014) — series — Horror, Thriller, Supernatural — rating 8.2 — /titles/api-16-penny-dreadful/
+- Hannibal (2013) — series — Drama, Crime, Horror — rating 8.2 — /titles/api-194-hannibal/
+- Berserk (1997) — series — Anime, Fantasy, Horror — rating 8.0 — /titles/api-27-berserk/
+- Carnivàle (2003) — series — Drama, Fantasy, Horror — rating 8.0 — /titles/api-162-carniv-le/
+- Bates Motel (2013) — series — Drama, Horror, Thriller — rating 8.0 — /titles/api-195-bates-motel/
+- Da Vinci's Demons (2013) — series — Drama, Horror — rating 8.0 — /titles/api-197-da-vinci-s-demons/
+- Lost Girl (2010) — series — Drama, Fantasy, Horror — rating 7.9 — /titles/api-12-lost-girl/
+- The Walking Dead (2010) — series — Drama, Action, Horror — rating 7.9 — /titles/api-73-the-walking-dead/
+- Constantine (2014) — series — Drama, Action, Horror — rating 7.5 — /titles/api-15-constantine/
+- Bitten (2014) — series — Drama, Horror, Romance — rating 7.4 — /titles/api-3-bitten/
+- The Strain (2014) — series — Drama, Horror, Thriller — rating 7.4 — /titles/api-20-the-strain/
+- American Horror Story (2011) — series — Drama, Horror, Thriller — rating 7.4 — /titles/api-30-american-horror-story/
+
+## Full catalog A–Z (334 titles)
+- 2 Broke Girls (2011) — series — Comedy — rating 7.3 — /titles/api-124-2-broke-girls/
+- 24 (2001) — series — Drama, Action, Thriller — rating 8.2 — /titles/api-167-24/
+- 666 Park Avenue (2012) — series — Drama, Mystery, Supernatural — rating 6.6 — /titles/api-211-666-park-avenue/
+- A to Z (2014) — series — Comedy, Romance — rating 6.7 — /titles/api-92-a-to-z/
+- About a Boy (2014) — series — Drama, Comedy, Romance — rating 6.6 — /titles/api-131-about-a-boy/
+- Alcatraz (2012) — series — Drama, Science-Fiction, Thriller — rating 7.0 — /titles/api-212-alcatraz/
+- Ali G: Rezurection (2014) — series — Comedy — rating 6.0 — /titles/api-275-ali-g-rezurection/
+- Almost Human (2013) — series — Drama, Crime, Science-Fiction — rating 7.7 — /titles/api-202-almost-human/
+- Alphas (2011) — series — Drama, Science-Fiction, Supernatural — rating 7.5 — /titles/api-219-alphas/
+- America's Next Top Model (2003) — series — no genre recorded — rating 5.5 — /titles/api-99-america-s-next-top-model/
+- American Dad! (2005) — series — Comedy, Family — rating 7.5 — /titles/api-215-american-dad/
+- American Horror Story (2011) — series — Drama, Horror, Thriller — rating 7.4 — /titles/api-30-american-horror-story/
+- Anger Management (2012) — series — Comedy — rating 6.3 — /titles/api-239-anger-management/
+- Anthony Bourdain: Parts Unknown (2013) — series — Food, Travel — rating 7.7 — /titles/api-255-anthony-bourdain-parts-unknown/
+- Arrested Development (2003) — series — Comedy, Family — rating 8.2 — /titles/arrested-development/
+- Arrow (2012) — series — Drama, Action, Science-Fiction — rating 7.4 — /titles/api-4-arrow/
+- Avatar: The Last Airbender (2005) — series — Action, Adventure, Fantasy — rating 8.8 — /titles/avatar-the-last-airbender/
+- Awake (2012) — series — Drama, Fantasy, Thriller — rating 7.4 — /titles/api-233-awake/
+- Awkward. (2011) — series — Drama, Comedy, Romance — rating 7.3 — /titles/api-282-awkward/
+- Bad Education (2012) — series — Comedy — rating 6.6 — /titles/api-274-bad-education/
+- Bad Judge (2014) — series — Comedy, Family — rating 7.4 — /titles/api-91-bad-judge/
+- Band of Brothers (2001) — series — Drama, Action, War — rating 9.0 — /titles/band-of-brothers/
+- Banshee (2013) — series — Drama, Action, Crime — rating 8.6 — /titles/api-164-banshee/
+- Bates Motel (2013) — series — Drama, Horror, Thriller — rating 8.0 — /titles/api-195-bates-motel/
+- Battlestar Galactica (2003) — series — Drama, Science-Fiction, War — rating 8.7 — /titles/api-166-battlestar-galactica/
+- Beauty & the Beast (2012) — series — Action, Romance, Science-Fiction — rating 7.2 — /titles/api-155-beauty-the-beast/
+- Being Human (2011) — series — Drama, Horror, Romance — rating 7.4 — /titles/api-218-being-human/
+- Believe (2014) — series — Drama, Action, Fantasy — rating 7.3 — /titles/api-188-believe/
+- Benched (2014) — series — Comedy, Legal — rating 7.2 — /titles/api-241-benched/
+- Berserk (1997) — series — Anime, Fantasy, Horror — rating 8.0 — /titles/api-27-berserk/
+- Better Call Saul (2015) — series — Drama, Crime, Legal — rating 8.6 — /titles/better-call-saul/
+- Bionic Woman (2007) — series — Action, Science-Fiction — rating 6.4 — /titles/api-165-bionic-woman/
+- Bitten (2014) — series — Drama, Horror, Romance — rating 7.4 — /titles/api-3-bitten/
+- Black Dynamite (2012) — series — Comedy, Action — rating 8.0 — /titles/api-273-black-dynamite/
+- Black Mirror (2011) — series — Drama, Science-Fiction, Thriller — rating 8.4 — /titles/black-mirror/
+- Black Sails (2014) — series — Drama, Action, Adventure — rating 8.4 — /titles/api-182-black-sails/
+- black-ish (2014) — series — Comedy, Family — rating 6.2 — /titles/api-57-black-ish/
+- Bloodline (2015) — series — Drama, Thriller, Mystery — rating 7.8 — /titles/bloodline/
+- Blue Bloods (2010) — series — Drama, Crime — rating 8.1 — /titles/api-100-blue-bloods/
+- Boardwalk Empire (2010) — series — Drama, Crime — rating 8.3 — /titles/api-102-boardwalk-empire/
+- Bob's Burgers (2011) — series — Comedy, Family — rating 7.9 — /titles/api-107-bob-s-burgers/
+- BoJack Horseman (2014) — series — Drama, Comedy — rating 7.9 — /titles/api-184-bojack-horseman/
+- Bones (2005) — series — Drama, Crime, Medical — rating 8.1 — /titles/api-65-bones/
+- Breaking Bad (2008) — series — Drama, Crime, Thriller — rating 9.2 — /titles/api-169-breaking-bad/
+- Brickleberry (2012) — series — Comedy — rating 7.7 — /titles/api-277-brickleberry/
+- Brooklyn Nine-Nine (2013) — series — Comedy, Action, Crime — rating 8.1 — /titles/api-49-brooklyn-nine-nine/
+- Buddy (2026) — movie — Horror — no rating recorded — /titles/buddy/
+- Buffy the Vampire Slayer (1997) — series — Drama, Action, Supernatural — rating 8.5 — /titles/buffy-the-vampire-slayer/
+- By Any Means (2026) — movie — Action & Adventure — no rating recorded — /titles/by-any-means/
+- Californication (2007) — series — Drama, Comedy — rating 7.9 — /titles/api-28-californication/
+- Carnivàle (2003) — series — Drama, Fantasy, Horror — rating 8.0 — /titles/api-162-carniv-le/
+- Castle (2009) — series — Drama, Crime, Mystery — rating 8.2 — /titles/api-68-castle/
+- Chicago Fire (2012) — series — Drama, Action — rating 8.0 — /titles/api-59-chicago-fire/
+- Chicago P.D. (2014) — series — Drama, Crime — rating 8.0 — /titles/api-56-chicago-p-d/
+- Chuck (2007) — series — Drama, Comedy, Action — rating 8.2 — /titles/api-168-chuck/
+- Comic Book Men (2012) — series — Comedy — rating 7.4 — /titles/api-256-comic-book-men/
+- Conan (2010) — series — Comedy — rating 7.8 — /titles/api-243-conan/
+- Constantine (2014) — series — Drama, Action, Horror — rating 7.5 — /titles/api-15-constantine/
+- Continuum (2012) — series — Drama, Crime, Science-Fiction — rating 8.0 — /titles/api-14-continuum/
+- Cops (1989) — series — Action, Crime — rating 7.1 — /titles/api-240-cops/
+- Coyote vs. Acme (2026) — movie — Comedy — no rating recorded — /titles/coyote-vs-acme/
+- Criminal Minds (2005) — series — Drama, Crime, Thriller — rating 8.1 — /titles/api-81-criminal-minds/
+- Crisis (2014) — series — Drama, Action, Thriller — rating 7.1 — /titles/api-190-crisis/
+- Cristela (2014) — series — Comedy, Legal — rating 7.0 — /titles/api-137-cristela/
+- Crossing Lines (2013) — series — Drama, Action, Crime — rating 7.6 — /titles/api-220-crossing-lines/
+- CSI: Crime Scene Investigation (2000) — series — Drama, Action, Crime — rating 8.1 — /titles/api-109-csi-crime-scene-investigation/
+- Da Vinci's Demons (2013) — series — Drama, Horror — rating 8.0 — /titles/api-197-da-vinci-s-demons/
+- Dads (2013) — series — Comedy — rating 5.1 — /titles/api-193-dads/
+- Dallas (2012) — series — Drama, Family — rating 6.7 — /titles/api-238-dallas/
+- Dancing with the Stars (2005) — series — Family — rating 6.5 — /titles/api-71-dancing-with-the-stars/
+- Dark Angel (2000) — series — Action, Science-Fiction — rating 8.6 — /titles/dark-angel/
+- Deadwood (2004) — series — Drama, Crime, Western — rating 8.7 — /titles/deadwood/
+- Death Note (2006) — series — Anime, Fantasy, Thriller — rating 8.8 — /titles/api-40-death-note/
+- Defiance (2013) — series — Action, Adventure, Science-Fiction — rating 7.8 — /titles/api-94-defiance/
+- Devious Maids (2013) — series — Drama, Crime, Mystery — rating 7.6 — /titles/api-201-devious-maids/
+- Dexter (2006) — series — Drama, Crime, Mystery — rating 8.4 — /titles/api-161-dexter/
+- Doctor Who (2005) — series — Drama, Adventure, Science-Fiction — rating 8.3 — /titles/api-210-doctor-who/
+- Dominion (2014) — series — Action, Adventure, Fantasy — rating 7.2 — /titles/api-104-dominion/
+- Downton Abbey (2010) — series — Drama, Family, Romance — rating 8.7 — /titles/downton-abbey/
+- Elementary (2012) — series — Drama, Crime, Mystery — rating 8.3 — /titles/api-133-elementary/
+- Episodes (2011) — series — Comedy — rating 7.9 — /titles/api-146-episodes/
+- Extant (2014) — series — Drama, Science-Fiction, Thriller — rating 7.3 — /titles/api-181-extant/
+- Face Off (2011) — series — no genre recorded — rating 8.1 — /titles/api-278-face-off/
+- Faking It (2014) — series — Comedy, Romance — rating 7.5 — /titles/api-283-faking-it/
+- Falling Skies (2011) — series — Drama, Action, Science-Fiction — rating 7.6 — /titles/api-95-falling-skies/
+- Family Guy (1999) — series — Comedy, Family — rating 7.5 — /titles/api-84-family-guy/
+- Fargo (2014) — series — Drama, Comedy, Crime — rating 8.6 — /titles/api-32-fargo/
+- Farscape (1999) — series — Action, Adventure, Science-Fiction — rating 8.6 — /titles/farscape/
+- Firefly (2002) — series — Drama, Adventure, Science-Fiction — rating 9.0 — /titles/api-180-firefly/
+- Forever (2014) — series — Drama, Crime, Supernatural — rating 8.1 — /titles/api-46-forever/
+- Forgotten Island (2026) — movie — Kids & Family — no rating recorded — /titles/forgotten-island/
+- Franklin & Bash (2011) — series — Drama, Comedy, Legal — rating 7.2 — /titles/api-280-franklin-bash/
+- Friends (1994) — series — Comedy, Romance — rating 8.5 — /titles/friends/
+- Fringe (2008) — series — Drama, Action, Science-Fiction — rating 8.6 — /titles/api-158-fringe/
+- From Dusk Till Dawn: The Series (2014) — series — Action, Crime, Horror — rating 6.5 — /titles/api-105-from-dusk-till-dawn-the-series/
+- Futurama (1999) — series — Comedy, Adventure, Science-Fiction — rating 8.6 — /titles/futurama/
+- Game of Thrones (2011) — series — Drama, Adventure, Fantasy — rating 8.9 — /titles/api-82-game-of-thrones/
+- GCB (2012) — series — Drama, Comedy, Romance — rating 7.2 — /titles/api-236-gcb/
+- Getting On (2013) — series — Comedy, Medical — rating 7.1 — /titles/api-141-getting-on/
+- Girl Meets World (2014) — series — Drama, Comedy, Family — rating 7.7 — /titles/api-252-girl-meets-world/
+- Girls (2012) — series — Drama, Romance — rating 6.4 — /titles/api-139-girls/
+- Glee (2009) — series — Drama, Music, Romance — rating 6.6 — /titles/api-8-glee/
+- Glue (2014) — series — Drama — rating 7.7 — /titles/api-258-glue/
+- Go On (2012) — series — Comedy — rating 7.3 — /titles/api-230-go-on/
+- Godzilla Minus One (2023) — movie — Action & Adventure — no rating recorded — /titles/godzilla-minus-one/
+- Gotham (2014) — series — Drama, Action, Crime — rating 7.7 — /titles/api-11-gotham/
+- Grace and Frankie (2015) — series — Comedy — rating 7.7 — /titles/grace-and-frankie/
+- Graceland (2013) — series — Drama, Action, Crime — rating 7.4 — /titles/api-205-graceland/
+- Gracepoint (2014) — series — Drama, Crime, Mystery — rating 7.5 — /titles/api-110-gracepoint/
+- Gravity Falls (2012) — series — Adventure, Mystery, Supernatural — rating 8.8 — /titles/gravity-falls/
+- Grey's Anatomy (2005) — series — Drama, Romance, Medical — rating 7.6 — /titles/api-67-grey-s-anatomy/
+- Grimm (2011) — series — Drama, Crime, Supernatural — rating 8.4 — /titles/api-10-grimm/
+- Halt and Catch Fire (2014) — series — Drama — rating 8.2 — /titles/api-191-halt-and-catch-fire/
+- Hamnet (2026) — movie — Drama — no rating recorded — /titles/hamnet/
+- Hannibal (2013) — series — Drama, Crime, Horror — rating 8.2 — /titles/api-194-hannibal/
+- Happy Valley (2014) — series — Drama, Crime — rating 8.1 — /titles/api-286-happy-valley/
+- Happyland (2014) — series — Drama, Comedy — rating 7.0 — /titles/api-222-happyland/
+- Haven (2010) — series — Drama, Crime, Supernatural — rating 8.0 — /titles/api-90-haven/
+- Hawaii Five-0 (2010) — series — Drama, Action, Crime — rating 7.7 — /titles/api-24-hawaii-five-0/
+- Heart of the Beast (2026) — movie — Action & Adventure — no rating recorded — /titles/heart-of-the-beast/
+- Helix (2014) — series — Horror, Science-Fiction, Thriller — rating 6.5 — /titles/api-34-helix/
+- Hell on Wheels (2011) — series — Drama, Action, Western — rating 8.2 — /titles/api-74-hell-on-wheels/
+- Hell's Kitchen (2005) — series — Food — rating 6.8 — /titles/api-253-hell-s-kitchen/
+- Hello Ladies (2013) — series — Comedy — rating 6.5 — /titles/api-192-hello-ladies/
+- Hellsing (2001) — series — Anime, Horror, Supernatural — rating 7.3 — /titles/api-25-hellsing/
+- Hellsing Ultimate (2006) — series — Drama, Action, Anime, Horror — rating 7.3 — /titles/api-26-hellsing-ultimate/
+- Hemlock Grove (2013) — series — Drama, Horror, Thriller — rating 6.9 — /titles/api-33-hemlock-grove/
+- Heroes (2006) — series — Drama, Action, Science-Fiction — rating 7.7 — /titles/api-134-heroes/
+- Homeland (2011) — series — Drama, Thriller, Espionage — rating 8.2 — /titles/api-7-homeland/
+- Hope (2026) — movie — Action & Adventure — no rating recorded — /titles/hope/
+- Hostages (2013) — series — Drama, Thriller — rating 6.4 — /titles/api-217-hostages/
+- House (2004) — series — Drama, Mystery, Medical — rating 8.7 — /titles/api-118-house/
+- House of Cards (2013) — series — Drama, Thriller — rating 8.2 — /titles/api-175-house-of-cards/
+- House of Lies (2012) — series — Drama, Comedy — rating 7.9 — /titles/api-145-house-of-lies/
+- How I Met Your Mother (2005) — series — Drama, Comedy, Romance — rating 7.8 — /titles/api-171-how-i-met-your-mother/
+- How to Get Away with Murder (2014) — series — Drama, Thriller, Legal — rating 7.6 — /titles/api-52-how-to-get-away-with-murder/
+- Human Target (2010) — series — Action, Adventure, Crime — rating 8.0 — /titles/api-163-human-target/
+- Illumination Presents: Dr. Seuss' The Grinch (2018) — movie — Kids & Family — no rating recorded — /titles/illumination-presents-dr-seuss-the-grinch/
+- Intelligence (2014) — series — Action, Science-Fiction — rating 6.5 — /titles/api-187-intelligence/
+- Intruders (2014) — series — Drama, Fantasy, Thriller — rating 7.1 — /titles/api-37-intruders/
+- Jane the Virgin (2014) — series — Drama, Crime, Romance — rating 7.4 — /titles/api-128-jane-the-virgin/
+- Jurassic World: Rebirth (2025) — movie — Action & Adventure — no rating recorded — /titles/jurassic-world-rebirth/
+- Justified (2010) — series — Drama, Crime, Western — rating 8.7 — /titles/api-106-justified/
+- Key & Peele (2012) — series — Comedy — rating 7.7 — /titles/api-257-key-peele/
+- King of the Hill (1997) — series — Comedy — rating 7.6 — /titles/api-115-king-of-the-hill/
+- Kingdom (2014) — series — Drama, Family, Sports — rating 7.9 — /titles/api-214-kingdom/
+- Kirby Buckets (2014) — series — Comedy — no rating recorded — /titles/api-250-kirby-buckets/
+- Last Man Standing (2011) — series — Comedy, Family — rating 7.8 — /titles/api-41-last-man-standing/
+- Last Resort (2012) — series — Drama, Action, War — rating 7.3 — /titles/api-228-last-resort/
+- Last Week Tonight with John Oliver (2014) — series — Comedy — rating 7.8 — /titles/api-263-last-week-tonight-with-john-oliver/
+- Law & Order: Special Victims Unit (1999) — series — Drama, Crime, Legal — rating 7.9 — /titles/api-103-law-order-special-victims-unit/
+- Legends (2014) — series — Drama, Crime, Thriller — rating 7.5 — /titles/api-54-legends/
+- Line of Duty (2012) — series — Drama, Crime, Thriller — rating 8.6 — /titles/line-of-duty/
+- Long Shadow (2014) — series — War, History — no rating recorded — /titles/api-246-long-shadow/
+- Longmire (2012) — series — Drama, Thriller, Western — rating 8.3 — /titles/longmire/
+- Looking (2014) — series — Drama, Comedy, Romance — rating 7.3 — /titles/api-140-looking/
+- Lost (2004) — series — Drama, Adventure, Supernatural — rating 8.2 — /titles/api-123-lost/
+- Lost Girl (2010) — series — Drama, Fantasy, Horror — rating 7.9 — /titles/api-12-lost-girl/
+- Lovesick (2014) — series — Comedy, Romance — rating 7.3 — /titles/api-267-lovesick/
+- Madam Secretary (2014) — series — Drama — rating 7.7 — /titles/api-48-madam-secretary/
+- Manhattan Love Story (2014) — series — Comedy, Romance — rating 5.4 — /titles/api-96-manhattan-love-story/
+- Marco Polo (2014) — series — Drama, Action, Adventure — rating 8.0 — /titles/marco-polo/
+- Marry Me (2014) — series — Comedy — rating 5.4 — /titles/api-129-marry-me/
+- Marvel's Agents of S.H.I.E.L.D. (2013) — series — Action, Adventure, Science-Fiction — rating 8.0 — /titles/api-31-marvel-s-agents-of-s-h-i-e-l-d/
+- Marvel's Daredevil (2015) — series — Drama, Action, Crime — rating 8.4 — /titles/marvel-s-daredevil/
+- Marvel's Jessica Jones (2015) — series — Action, Crime, Science-Fiction — rating 7.9 — /titles/marvel-s-jessica-jones/
+- Masters of Sex (2013) — series — Drama, Romance, History — rating 7.3 — /titles/api-149-masters-of-sex/
+- Missing (2012) — series — Drama, Action, Thriller — rating 7.0 — /titles/api-234-missing/
+- Mistresses (2013) — series — Drama, Romance — rating 7.5 — /titles/api-199-mistresses/
+- Mob City (2013) — series — Drama, Crime — rating 7.4 — /titles/api-227-mob-city/
+- Mock the Week (2005) — series — Comedy — rating 7.7 — /titles/api-281-mock-the-week/
+- Modern Family (2009) — series — Comedy, Family — rating 7.8 — /titles/api-80-modern-family/
+- Mom (2013) — series — Comedy, Family — rating 7.6 — /titles/api-126-mom/
+- Mount Pleasant (2011) — series — Drama, Comedy — no rating recorded — /titles/api-266-mount-pleasant/
+- Mr. Selfridge (2013) — series — Drama — rating 7.6 — /titles/api-284-mr-selfridge/
+- Mulaney (2014) — series — Comedy, Family — rating 6.0 — /titles/api-108-mulaney/
+- Musk (2026) — movie — Documentary — no rating recorded — /titles/musk/
+- Mutiny (2026) — movie — Action & Adventure — no rating recorded — /titles/mutiny/
+- Nashville (2012) — series — Drama, Music, Romance — rating 7.4 — /titles/api-53-nashville/
+- NCIS (2003) — series — Drama, Action, Crime — rating 7.9 — /titles/api-60-ncis/
+- NCIS: Los Angeles (2009) — series — Drama, Action, Crime — rating 7.9 — /titles/api-72-ncis-los-angeles/
+- NCIS: New Orleans (2014) — series — Drama, Action, Crime — rating 7.5 — /titles/api-45-ncis-new-orleans/
+- New Girl (2011) — series — Comedy, Romance — rating 7.3 — /titles/api-58-new-girl/
+- New Tricks (2004) — series — Drama, Comedy, Crime — rating 7.8 — /titles/api-276-new-tricks/
+- Nikita (2010) — series — Drama, Action, Crime — rating 7.8 — /titles/api-122-nikita/
+- Nurse Jackie (2009) — series — Drama, Comedy — rating 7.8 — /titles/api-147-nurse-jackie/
+- Obsession (2026) — movie — Horror — no rating recorded — /titles/obsession/
+- Obsession (2026) (2026) — movie — Horror — no rating recorded — /titles/obsession-2026/
+- Once Upon a Time (2011) — series — Drama, Fantasy, Romance — rating 7.5 — /titles/api-111-once-upon-a-time/
+- Once Upon a Time in Wonderland (2013) — series — Drama, Adventure, Fantasy — rating 6.9 — /titles/api-23-once-upon-a-time-in-wonderland/
+- Orange Is the New Black (2013) — series — Drama, Comedy, Crime — rating 7.9 — /titles/api-170-orange-is-the-new-black/
+- Orphan Black (2013) — series — Drama, Science-Fiction, Thriller — rating 8.6 — /titles/api-61-orphan-black/
+- Other Mommy (2026) — movie — Horror — no rating recorded — /titles/other-mommy/
+- Outlander (2014) — series — Adventure, Romance, Science-Fiction — rating 7.9 — /titles/api-43-outlander/
+- Oz (1997) — series — Drama, Crime — rating 8.7 — /titles/oz/
+- Package Deal (2013) — series — Comedy — rating 6.2 — /titles/api-268-package-deal/
+- Parenthood (2010) — series — Drama, Comedy, Family — rating 7.9 — /titles/api-93-parenthood/
+- Parks and Recreation (2009) — series — Comedy — rating 8.1 — /titles/api-174-parks-and-recreation/
+- Peaky Blinders (2013) — series — Drama, Crime, History — rating 8.5 — /titles/api-269-peaky-blinders/
+- Penny Dreadful (2014) — series — Horror, Thriller, Supernatural — rating 8.2 — /titles/api-16-penny-dreadful/
+- Person of Interest (2011) — series — Action, Crime, Science-Fiction — rating 8.8 — /titles/api-2-person-of-interest/
+- Practical Magic 2 (2026) — movie — Comedy — no rating recorded — /titles/practical-magic-2/
+- Pressure (2026) — movie — Drama — no rating recorded — /titles/pressure/
+- Pretty Little Liars (2010) — series — Romance, Thriller, Mystery — rating 7.4 — /titles/api-177-pretty-little-liars/
+- Primetime (2026) — movie — Thriller — no rating recorded — /titles/primetime/
+- Ravenswood (2013) — series — Drama, Horror — rating 6.9 — /titles/api-225-ravenswood/
+- Ray Donovan (2013) — series — Drama, Action, Crime — rating 8.1 — /titles/api-152-ray-donovan/
+- Real Time with Bill Maher (2003) — series — no genre recorded — rating 5.1 — /titles/api-279-real-time-with-bill-maher/
+- Rectify (2013) — series — Drama, Crime — rating 8.0 — /titles/api-221-rectify/
+- Red Band Society (2014) — series — Drama, Comedy — rating 7.7 — /titles/api-55-red-band-society/
+- Reign (2013) — series — Drama, Romance, History — rating 7.6 — /titles/api-88-reign/
+- Resident Evil (2026) (2026) — movie — Horror — no rating recorded — /titles/resident-evil-2026/
+- Resurrection (2014) — series — Drama, Science-Fiction, Mystery — rating 7.1 — /titles/api-39-resurrection/
+- Revenge (2011) — series — Drama, Thriller, Mystery — rating 7.8 — /titles/api-9-revenge/
+- Revolution (2012) — series — Action, Adventure, Science-Fiction — rating 7.6 — /titles/api-237-revolution/
+- Rick and Morty (2013) — series — Comedy, Adventure, Science-Fiction — rating 8.7 — /titles/api-216-rick-and-morty/
+- Runner (2026) — movie — Action & Adventure — no rating recorded — /titles/runner/
+- Salem (2014) — series — Drama, Thriller, Supernatural — rating 6.9 — /titles/api-185-salem/
+- Sanctuary (2008) — series — Drama, Adventure, Science-Fiction — rating 8.0 — /titles/api-154-sanctuary/
+- Savage House (2026) — movie — Comedy — no rating recorded — /titles/savage-house/
+- Saving Hope (2012) — series — Drama, Fantasy, Medical — rating 7.7 — /titles/api-271-saving-hope/
+- Scandal (2012) — series — Drama, Thriller — rating 7.9 — /titles/api-98-scandal/
+- Scorpion (2014) — series — Drama, Action, Thriller — rating 7.3 — /titles/api-44-scorpion/
+- Selfie (2014) — series — Comedy, Romance — rating 7.1 — /titles/api-125-selfie/
+- Sense and Sensibility (2026) (2026) — movie — Drama — no rating recorded — /titles/sense-and-sensibility-2026/
+- Sense8 (2015) — series — Drama, Science-Fiction, Thriller — rating 8.1 — /titles/sense8/
+- Shameless (2011) — series — Drama, Comedy, Family — rating 8.4 — /titles/api-150-shameless/
+- Sherlock (2010) — series — Drama, Crime, Mystery — rating 8.9 — /titles/sherlock/
+- Signed, Sealed, Delivered (2013) — series — Romance, Mystery — rating 7.9 — /titles/api-285-signed-sealed-delivered/
+- Silicon Valley (2014) — series — Comedy — rating 8.4 — /titles/api-143-silicon-valley/
+- Sleepy Hollow (2013) — series — Drama, Mystery, Supernatural — rating 7.5 — /titles/api-42-sleepy-hollow/
+- Sons of Anarchy (2008) — series — Drama, Action, Crime — rating 8.3 — /titles/api-76-sons-of-anarchy/
+- South Park (1997) — series — Comedy — rating 8.3 — /titles/api-112-south-park/
+- Southern Justice (2014) — series — Crime — no rating recorded — /titles/api-259-southern-justice/
+- Spider-Man: Brand New Day (2026) — movie — Action & Adventure — no rating recorded — /titles/spider-man-brand-new-day/
+- Stalker (2014) — series — Crime, Thriller — rating 7.4 — /titles/api-86-stalker/
+- Star Trek: The Next Generation (1987) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/star-trek-the-next-generation/
+- Star Wars: Rebels (2014) — series — Action, Adventure, Science-Fiction — rating 7.9 — /titles/api-117-star-wars-rebels/
+- Star-Crossed (2014) — series — Drama, Romance, Science-Fiction — rating 6.9 — /titles/api-189-star-crossed/
+- Stargate Atlantis (2004) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-206-stargate-atlantis/
+- Stargate SG·1 (1997) — series — Action, Adventure, Science-Fiction — rating 8.8 — /titles/api-204-stargate-sg-1/
+- Stargate Universe (2009) — series — Action, Adventure, Science-Fiction — rating 8.1 — /titles/api-207-stargate-universe/
+- State of Affairs (2014) — series — Drama, Thriller — rating 6.5 — /titles/api-159-state-of-affairs/
+- Strange Empire (2014) — series — Drama, Western — rating 7.2 — /titles/api-244-strange-empire/
+- Suits (2011) — series — Drama, Legal — rating 8.1 — /titles/api-172-suits/
+- Supernatural (2005) — series — Drama, Action, Supernatural — rating 8.4 — /titles/api-19-supernatural/
+- Survivor (2000) — series — Adventure — rating 7.3 — /titles/api-114-survivor/
+- Survivor's Remorse (2014) — series — Drama, Comedy, Sports — rating 6.6 — /titles/api-209-survivor-s-remorse/
+- Talking Dead (2011) — series — no genre recorded — rating 6.3 — /titles/api-272-talking-dead/
+- Teen Wolf (2011) — series — Drama, Romance, Supernatural — rating 8.1 — /titles/api-176-teen-wolf/
+- The 100 (2014) — series — Action, Adventure, Science-Fiction — rating 7.7 — /titles/api-6-the-100/
+- The Affair (2014) — series — Drama, Romance — rating 7.7 — /titles/api-127-the-affair/
+- The Amazing Race (2001) — series — Action, Adventure, Family — rating 6.8 — /titles/api-18-the-amazing-race/
+- The Americans (2013) — series — Drama, Espionage — rating 8.5 — /titles/api-157-the-americans/
+- The Big Bang Theory (2007) — series — Comedy — rating 8.0 — /titles/api-66-the-big-bang-theory/
+- The Biggest Loser (2004) — series — no genre recorded — rating 6.0 — /titles/api-97-the-biggest-loser/
+- The Blacklist (2013) — series — Drama, Crime, Thriller — rating 8.0 — /titles/api-69-the-blacklist/
+- The Bridge (2013) — series — Drama, Crime, Thriller — rating 7.5 — /titles/api-87-the-bridge/
+- The Carrie Diaries (2013) — series — Drama, Comedy, Romance — rating 6.6 — /titles/api-203-the-carrie-diaries/
+- The Chair (2014) — series — no genre recorded — no rating recorded — /titles/api-208-the-chair/
+- The Colbert Report (2005) — series — Comedy — rating 7.2 — /titles/api-247-the-colbert-report/
+- The Comeback (2005) — series — Comedy — rating 6.5 — /titles/api-144-the-comeback/
+- The Crazy Ones (2013) — series — Comedy — rating 7.1 — /titles/api-226-the-crazy-ones/
+- The Daily Show with Jon Stewart (1999) — series — Comedy — rating 8.0 — /titles/api-249-the-daily-show-with-jon-stewart/
+- The Driver (2014) — series — Drama, Crime — rating 7.2 — /titles/api-262-the-driver/
+- The End of Oak Street (2026) — movie — Thriller — no rating recorded — /titles/the-end-of-oak-street/
+- The Flash (2014) — series — Drama, Action, Science-Fiction — rating 7.5 — /titles/api-13-the-flash/
+- The Following (2013) — series — Drama, Crime, Thriller — rating 7.0 — /titles/api-196-the-following/
+- The Fosters (2013) — series — Drama, Family, Romance — rating 7.5 — /titles/api-198-the-fosters/
+- The Gates (2010) — series — Drama, Crime, Supernatural — rating 7.3 — /titles/api-213-the-gates/
+- The Goldbergs (2013) — series — Comedy, Family — rating 7.5 — /titles/api-79-the-goldbergs/
+- The Good Wife (2009) — series — Drama, Crime, Legal — rating 8.1 — /titles/api-101-the-good-wife/
+- The Great Fire (2014) — series — Drama — rating 7.0 — /titles/api-242-the-great-fire/
+- The History of Concrete (2026) — movie — Documentary — no rating recorded — /titles/the-history-of-concrete/
+- The Hunger Games: The Ballad of Songbirds and Snakes (2023) — movie — Action & Adventure — no rating recorded — /titles/the-hunger-games-the-ballad-of-songbirds-and-snakes/
+- The Invite (2026) — movie — Comedy — no rating recorded — /titles/the-invite/
+- The IT Crowd (2006) — series — Comedy — rating 8.7 — /titles/the-it-crowd/
+- The Killing (2011) — series — Drama, Crime, Thriller — rating 8.2 — /titles/api-35-the-killing/
+- The Knick (2014) — series — Drama, Medical — rating 8.3 — /titles/api-51-the-knick/
+- The Last Ship (2014) — series — Drama, Action, Thriller — rating 7.5 — /titles/api-21-the-last-ship/
+- The Late Show with David Letterman (1993) — series — Comedy — rating 7.5 — /titles/api-265-the-late-show-with-david-letterman/
+- The League (2009) — series — Comedy, Sports — rating 7.6 — /titles/api-270-the-league/
+- The Leftovers (2014) — series — Drama, Science-Fiction, Thriller — rating 8.0 — /titles/api-138-the-leftovers/
+- The Legend of Korra (2012) — series — Action, Adventure, Fantasy — rating 7.9 — /titles/api-178-the-legend-of-korra/
+- The Lottery (2014) — series — Drama, Science-Fiction, Thriller — rating 6.5 — /titles/api-50-the-lottery/
+- The McCarthys (2014) — series — Comedy, Family — rating 6.8 — /titles/api-136-the-mccarthys/
+- The Mentalist (2008) — series — Drama, Crime, Mystery — rating 8.2 — /titles/api-116-the-mentalist/
+- The Middle (2009) — series — Comedy, Family — rating 8.1 — /titles/api-77-the-middle/
+- The Millers (2013) — series — Comedy — rating 6.2 — /titles/api-132-the-millers/
+- The Mindy Project (2012) — series — Comedy, Romance, Medical — rating 7.0 — /titles/api-75-the-mindy-project/
+- The Mysteries of Laura (2014) — series — Comedy, Crime, Mystery — rating 7.3 — /titles/api-78-the-mysteries-of-laura/
+- The Neighbors (2012) — series — Comedy, Science-Fiction — rating 6.9 — /titles/api-229-the-neighbors/
+- The New Normal (2012) — series — Comedy — rating 7.1 — /titles/api-235-the-new-normal/
+- The Newsroom (2012) — series — Drama — rating 8.4 — /titles/api-151-the-newsroom/
+- The Originals (2013) — series — Drama, Romance, Supernatural — rating 8.2 — /titles/api-62-the-originals/
+- The River (2012) — series — Drama, Horror, Supernatural — rating 6.9 — /titles/api-232-the-river/
+- The Shield (2002) — series — Drama, Crime — rating 8.6 — /titles/the-shield/
+- The Simpsons (1989) — series — Comedy, Family — rating 8.1 — /titles/api-83-the-simpsons/
+- The Sopranos (1999) — series — Drama, Crime — rating 8.8 — /titles/the-sopranos/
+- The Soup (2004) — series — Comedy — rating 4.5 — /titles/api-261-the-soup/
+- The Strain (2014) — series — Drama, Horror, Thriller — rating 7.4 — /titles/api-20-the-strain/
+- The Tomorrow People (2013) — series — Action, Science-Fiction — rating 7.3 — /titles/api-200-the-tomorrow-people/
+- The Vampire Diaries (2009) — series — Drama, Romance, Supernatural — rating 7.9 — /titles/api-63-the-vampire-diaries/
+- The Voice (2011) — series — Music — rating 5.8 — /titles/api-70-the-voice/
+- The Walking Dead (2010) — series — Drama, Action, Horror — rating 7.9 — /titles/api-73-the-walking-dead/
+- The Weight (2026) — movie — Thriller — no rating recorded — /titles/the-weight/
+- The West Wing (1999) — series — Drama — rating 8.6 — /titles/the-west-wing/
+- The Wire (2002) — series — Drama, Crime — rating 8.9 — /titles/api-179-the-wire/
+- The X-Files (1993) — series — Drama, Crime, Science-Fiction — rating 8.6 — /titles/the-x-files/
+- Tosh.0 (2009) — series — Comedy — rating 6.2 — /titles/api-260-tosh-0/
+- Town of the Living Dead (2014) — series — no genre recorded — no rating recorded — /titles/api-245-town-of-the-living-dead/
+- Transparent (2014) — series — Drama, Comedy — rating 7.3 — /titles/api-120-transparent/
+- Transporter: The Series (2013) — series — Action, Adventure, Crime — rating 7.3 — /titles/api-248-transporter-the-series/
+- True Blood (2008) — series — Drama, Romance, Supernatural — rating 7.9 — /titles/api-22-true-blood/
+- True Detective (2014) — series — Drama, Crime, Thriller — rating 8.1 — /titles/api-5-true-detective/
+- TURN: Washington's Spies (2014) — series — Drama, War — rating 7.9 — /titles/api-186-turn-washington-s-spies/
+- Twin Peaks (1990) — series — Crime, Mystery, Supernatural — rating 8.0 — /titles/api-156-twin-peaks/
+- Twisted (2013) — series — Drama, Thriller, Mystery — rating 7.3 — /titles/api-224-twisted/
+- Two and a Half Men (2003) — series — Comedy, Family — rating 6.7 — /titles/api-130-two-and-a-half-men/
+- Tyrant (2014) — series — Drama, Thriller — rating 7.9 — /titles/api-183-tyrant/
+- Unbreakable Kimmy Schmidt (2015) — series — Comedy — rating 7.5 — /titles/unbreakable-kimmy-schmidt/
+- Under the Dome (2013) — series — Drama, Science-Fiction, Thriller — rating 6.6 — /titles/api-1-under-the-dome/
+- Unforgettable (2011) — series — Drama, Crime — rating 7.5 — /titles/api-89-unforgettable/
+- Utopia (2013) — series — Drama, Science-Fiction, Thriller — rating 8.4 — /titles/api-64-utopia/
+- Veep (2012) — series — Comedy — rating 7.8 — /titles/api-142-veep/
+- Vegas (2012) — series — Drama — rating 7.9 — /titles/api-231-vegas/
+- Verity (2026) — movie — Thriller — no rating recorded — /titles/verity/
+- Vikings (2013) — series — Drama, Action, History — rating 8.6 — /titles/api-29-vikings/
+- Web Therapy (2011) — series — Comedy — rating 7.1 — /titles/api-148-web-therapy/
+- Weeds (2005) — series — Drama, Comedy, Crime — rating 7.9 — /titles/api-160-weeds/
+- Witches of East End (2013) — series — Drama, Fantasy, Romance — rating 7.5 — /titles/api-47-witches-of-east-end/
+- World Series of Poker (2006) — series — Sports — rating 7.8 — /titles/api-254-world-series-of-poker/
+- Your Mother Your Mother Your Mother (2026) — movie — Action & Adventure — no rating recorded — /titles/your-mother-your-mother-your-mother/
+- Z Nation (2014) — series — Action, Horror, Science-Fiction — rating 7.2 — /titles/api-38-z-nation/
+
+## Where to watch legally
+- Movies link to their official Apple TV store page (with price where the chart records one).
+- Series link to their official TVMaze page (network recorded in the catalog; Netflix series to Netflix).
+- Guides: /where-to-watch/ (USA / UK / EU), /where-to-watch-top10-usa/ (Netflix Top 10 in the USA).
+
+## About CineScope
+- Legal discovery only: TVMaze API (series) + Apple iTunes charts US & UK (movies) + official YouTube trailers.
+- Markets: United States, United Kingdom, Europe. English only.
+- Key pages: / (home), /netflix/ (Top 10), /best-2026/, /movies/, /series/, /catalog/ (all 334 titles),
+  /genres/, /where-to-watch/, /new-this-week/, /guides/ (FAQ). Sitemap: /sitemap.xml (49 URLs).

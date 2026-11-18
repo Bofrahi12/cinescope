@@ -808,3 +808,66 @@ renderWlBadge();
 route();
 armReveals();
 loadLiveCatalog();
+
+/* GEO offer order (2026-11-18): best CPAlead offer for the visitor's country first. */
+(function(){
+  function isIOS(){ var ua = navigator.userAgent || ''; return /iPad|iPhone|iPod/.test(ua) || (navigator.maxTouchPoints > 1 && /Mac/.test(ua)); }
+  function isDesktop(){ var ua = navigator.userAgent || ''; return !/Mobi|Android/.test(ua); }
+  function orderFor(cc){
+    var G='5547390', V='5547320', C='5543635', S='5547288';
+    if (cc === 'US') return isIOS() ? [G,V,C,S] : (isDesktop() ? [V,G,C,S] : [G,V,C,S]);
+    if (cc === 'GB') return isIOS() ? [G,C,S,V] : [C,G,S,V];
+    if (cc === 'DE' || cc === 'FR') return [C,G,S,V];
+    if (cc === 'AU' || cc === 'CA') return isIOS() ? [G,C,S,V] : [C,S,G,V];
+    return [G,V,C,S];
+  }
+  function apply(cc){
+    try{
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.smart-banner[aria-label="Sponsored offer"]'));
+      if (cards.length < 2) return;
+      var parent = cards[0].parentNode;
+      var anchor = cards[cards.length - 1].nextSibling;
+      var byId = {};
+      cards.forEach(function(c){
+        var a = c.querySelector('a[href*="view.php?id="]');
+        if (a) { var m = a.getAttribute('href').match(/id=(\d+)/); if (m) byId[m[1]] = c; }
+      });
+      var first = null;
+      orderFor(cc).forEach(function(id){
+        var c = byId[id];
+        if (c) { parent.insertBefore(c, anchor); if (!first) first = c; }
+      });
+      if (first) {
+        var tag = first.querySelector('.tag');
+        if (tag && tag.textContent.indexOf('TOP PICK') === -1) tag.textContent += ' \u00b7 TOP PICK FOR YOU';
+      }
+    }catch(e){ /* never break the page for an offer reorder */ }
+  }
+  function tzCountry(){
+    var tz = '';
+    try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch(e) { return null; }
+    if (tz === 'America/Toronto' || tz === 'America/Vancouver' || tz === 'America/Montreal') return 'CA';
+    if (tz.indexOf('America/') === 0) return 'US';
+    if (tz === 'Europe/London') return 'GB';
+    if (tz === 'Europe/Paris') return 'FR';
+    if (tz === 'Europe/Berlin') return 'DE';
+    if (tz.indexOf('Europe/') === 0) return 'EU';
+    if (tz.indexOf('Australia/') === 0) return 'AU';
+    return null;
+  }
+  function run(){
+    var done = false;
+    function finish(cc){ if (!done) { done = true; if (cc) apply(cc); } }
+    try{
+      var ctrl = new AbortController();
+      var to = setTimeout(function(){ try{ ctrl.abort(); }catch(e){} }, 1500);
+      fetch('https://ipapi.co/json/', {signal: ctrl.signal}).then(function(r){ return r.json(); }).then(function(d){
+        clearTimeout(to);
+        finish((d && d.country_code) ? d.country_code : tzCountry());
+      }).catch(function(){ clearTimeout(to); finish(tzCountry()); });
+      setTimeout(function(){ finish(tzCountry()); }, 1800);
+    }catch(e){ finish(tzCountry()); }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
+  else run();
+})();

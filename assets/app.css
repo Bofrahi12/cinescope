@@ -252,3 +252,13 @@ footer.site a{display:block;color:var(--muted);text-decoration:none;padding:4px 
 @media (max-width:860px){.tbl{display:block;overflow-x:auto}}
 
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+@font-face{font-family:'Bebas Neue';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/bebasneue-400.woff2) format('woff2')}
+@font-face{font-family:'Archivo';font-style:normal;font-weight:100 900;font-display:swap;src:url(fonts/archivo-var.woff2) format('woff2')}
+@font-face{font-family:'Manrope';font-style:normal;font-weight:200 800;font-display:swap;src:url(fonts/manrope-var.woff2) format('woff2')}
+
+.az-list{margin:26px 0 8px}
+.az-list h3{margin:18px 0 8px;font-size:1.05rem}
+.az-list p{margin:0;line-height:1.9}
+.az-list a{color:var(--ink);text-decoration:none}
+.az-list a:hover{text-decoration:underline}
